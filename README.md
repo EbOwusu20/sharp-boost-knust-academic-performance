@@ -1,0 +1,1 @@
+echo "# Sharp Boost KNUST Academic Performance" > README.md
